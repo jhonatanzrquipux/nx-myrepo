@@ -4,3 +4,9 @@
 [submodule "libs/common-ui"]
 	path = libs/common-ui
 	url = https://github.com/jhonatanzrquipux/lb-common-ui
+[submodule "libs/products"]
+	path = libs/products
+	url = https://github.com/jhonatanzrquipux/lb-products
+[submodule "apps/store"]
+	path = apps/store
+	url = https://github.com/jhonatanzrquipux/app-store
